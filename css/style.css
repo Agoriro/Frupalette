@@ -1,0 +1,19 @@
+#header img {
+    width: 80px;
+}
+
+body {
+    font-family: 'News Cycle', sans-serif;
+}
+
+body nav {
+    background: rgb(204, 43, 146);
+}
+
+body nav ul li a {
+    color: rgb(252, 248, 3);
+}
+
+body nav a span {
+    color: rgb(252, 248, 3);
+}
